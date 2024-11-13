@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.10.18 16:08:59.406.pas,C:\Documents and Settings\Alex\Мои документы\Borland Studio Projects\Unit1.pas=D:\Мои проекты\Delphi\PubNews\untMain.pas</Transaction>
+    <Transaction>2008.10.18 16:08:59.406.dfm,C:\Documents and Settings\Alex\Мои документы\Borland Studio Projects\Unit1.dfm=D:\Мои проекты\Delphi\PubNews\untMain.dfm</Transaction>
+    <Transaction>2008.10.18 16:09:02.562.bdsproj,C:\Documents and Settings\Alex\Мои документы\Borland Studio Projects\Project1.bdsproj=D:\Мои проекты\Delphi\PubNews\PubNews.bdsproj</Transaction>
+    <Transaction>2008.10.18 16:21:48.078.pas,D:\Мои проекты\Delphi\PubNews\Unit2.pas=D:\Мои проекты\Delphi\PubNews\untPrev.pas</Transaction>
+    <Transaction>2008.10.18 16:21:48.078.dfm,D:\Мои проекты\Delphi\PubNews\Unit2.dfm=D:\Мои проекты\Delphi\PubNews\untPrev.dfm</Transaction>
+    <Transaction>2008.11.01 18:55:41.234.pas,D:\Мои проекты\Delphi\PubNews\untPrev.pas=</Transaction>
+    <Transaction>2008.11.01 18:55:41.234.dfm,D:\Мои проекты\Delphi\PubNews\untPrev.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
